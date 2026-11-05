@@ -1,0 +1,26 @@
+{
+  "title": "Alternative Rock Song Starters",
+  "study": "ar01",
+  "bpm": 108,
+  "source_audio": "preview/alternative-rock-song-starters-simple-synth-preview.mp3",
+  "source_audio_sha256": "005e32a7ba1f6b370d15a086e1d7eb7efce9de59d6471c74fd01aa22036be398",
+  "source_midi": "midi/ar01-dust-window/ar01-dust-window-combined.mid",
+  "source_midi_sha256": "3a1b69f7757546a1d36792edd0e0a2728065bcee36fa82cbebeeb994a5b1118c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3eb13237447bac4c61ea4c4c1ce570dd9b8e6e5baa12a51e973c798b422a4b24",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "54d6141ac9b389f1baa03ac0f6348cbe368c70f2053e706c35960ba26b524e84",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "eb2a126c7156426a38fb7198ffd9b210c6cd2a891ed5366d53160a8bac69b679",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
