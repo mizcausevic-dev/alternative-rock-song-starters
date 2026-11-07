@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/alternative-rock-song-starters-midi.zip",
-      "bytes": 33662,
-      "sha256": "664d100c005754f7bdf590066bf42f59015ee4f6501af6dd9ecb46028a2fdd7b"
+      "bytes": 34649,
+      "sha256": "0b87b5bd56fe3af860d239635a3e7ecaaff8584683a423dec97756ef2d5e14a8"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9582,
-      "sha256": "daa18ed903fb6bc0b3046d5a96ebb08fcc31474c415429fdecf0ecac06355221"
+      "bytes": 9772,
+      "sha256": "7cf6ee2ebc60b7bcf91f43ce7dd3a36b5d882436aa0987f747e1a31fbd8857f9"
     },
     {
       "path": "midi/ar01-dust-window/ar01-dust-window-combined.mid",
@@ -457,6 +457,11 @@
       "sha256": "c1fb800d9dc4fc16be32648184b6f1e90a6cbe816b797e7178d4fd4af332012c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/alternative-rock-song-starters-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "005e32a7ba1f6b370d15a086e1d7eb7efce9de59d6471c74fd01aa22036be398"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3927,
-      "sha256": "815148e1f30b66da448331d5c72a0f778a78c02eb014dce077421a12c2243709"
+      "bytes": 4042,
+      "sha256": "8ce81cbd7f410753f165abd7e0ad117f843c6a2d0913974b7c1d581cc961bac7"
     },
     {
       "path": "social/instagram/caption.txt",
